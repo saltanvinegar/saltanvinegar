@@ -1,4 +1,5 @@
-### Hi there 👋
+### 
+![rotating-caprisun-capri-sun](https://user-images.githubusercontent.com/123847068/215299270-746d070c-1861-49fc-b23a-6971d72fd02d.gif)
 
 <!--
 **saltanvinegar/saltanvinegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
